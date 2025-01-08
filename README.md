@@ -1,6 +1,7 @@
 # CLOUD_COMPUTING_AND_PRIVACY_USING_PERSONAL_EXPENSE_TRACKER_DASHBOARD
 FIRST STEP :-
 The project begins by setting up a cloud infrastructure. I logged into my AWS account to leverage its robust services for hosting, data storage, and security. AWS provides the backbone for ensuring scalability, reliability, and secure handling of sensitive expense data.
+
 SECOND STEP:-
 Navigate to the EC2 Instance
 Once logged into my AWS account, I proceeded to the EC2 Dashboard by selecting the EC2 service from the AWS Management Console. The EC2 (Elastic Compute Cloud) service provides scalable virtual servers in the cloud.
